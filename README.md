@@ -9,3 +9,4 @@ Steps : Defined Project Scope and Objectives, Gathered and Analyzed Requirements
 Insights : Simplified Payout Process, Enhanced Financial Clarity, Improved Data Accessibility.
 
 Skills : Excel, Data Analysis, Financial Modeling, Formula Development, Problem-Solving, Accuracy Validation.
+also try [https://logicalc.org/](https://logicalc.org/)
